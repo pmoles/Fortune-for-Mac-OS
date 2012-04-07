@@ -1,0 +1,5 @@
+INSTALLATION:
+	Copy "fortune.py" and "tags" to the folder you want, but make sure that the paths in the script are correct.
+USAGE:
+	Edit in the Preferences panel of your prefered shell app in order to run this command at the begining of the session:
+		python %PATH_TO_THE_SCRIPT%/fortune.py
